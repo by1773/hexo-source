@@ -67,8 +67,8 @@ copy:
 #   icon: link
 # ---------------
 social:
-  fa fa-github: https://github.com/jerryc127
-  fa fa-envelope: mailto:xxxxxxxx@gmail.com
+  fa fa-github: https://github.com/by1773
+  fa fa-envelope: 1747837358@qq.com
   fa fa-rss: /atom.xml
 
 ####    search    ####
@@ -89,7 +89,7 @@ algolia_search:
 # Please see doc for more details: https://jerryc.me/posts/21cfbf15/#本地搜索
 # ---------------
 local_search:
-  enable: false
+  enable: true
   labels:
     input_placeholder: Search for Posts
     hits_empty: "We didn't find any results for the search: ${query}" # if there are no result
@@ -246,7 +246,7 @@ valine:
 # ------------------------------------
 since: 2017
 
-footer_custom_text: '既然来,别着急走哇~'
+footer_custom_text: '既然来了,就别着急走哇~'
 
 footer_copyright:
   enable: true
@@ -298,8 +298,8 @@ Flink:
   headline: 友情链接
   info_headline: 我的Blog资料
   name: Blog 名字： 汀
-  address: Blog 地址： https://jerryc.me/
-  avatar: Blog 头像像： https://jerryc.me/img/avatar.png
+  address: Blog 地址： https://by1773.github.io/
+  avatar: Blog 头像像：  https://by1773.github.io/img/avatar.png
   info: Blog 简介： 热爱我的热爱
   comment: 如果需要交换友链,请留言~
 
