@@ -42,7 +42,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
@@ -102,7 +102,23 @@ theme: Butterfly
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
+# 这是
 deploy:
   type: git
   repo: https://github.com/by1773/by1773.github.io.git # https://github.com/TJ-XiaJiaHao/TJ-XiaJiaHao.github.io
   branch: master
+
+# 豆瓣
+  douban:
+    user: 213823598
+    builtin: true
+    book:
+      title: 'This is my book title'
+      quote: 'This is my book quote'
+    movie:
+      title: 'This is my movie title'
+      quote: 'This is my movie quote'
+    game:
+      title: 'This is my game title'
+      quote: 'This is my game quote'
+    timeout: 10000 

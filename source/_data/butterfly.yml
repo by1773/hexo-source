@@ -26,7 +26,7 @@ menu:
   # 清单||fa fa-heartbeat:
   #       - 音乐 || /music/ || fa fa-music
   #       - 电影 || /movies/ || fa fa-film
-  友链: / link/ || fa fa-link 
+  友链: /link/ || fa fa-link 
   关于: /about/ || fa fa-heart
 
 
@@ -126,7 +126,7 @@ default_top_img: https://cdn.jsdelivr.net/gh/jerryc127/butterfly_cdn@2.1.0/top_i
 default_cover: https://cdn.jsdelivr.net/gh/jerryc127/butterfly_cdn@2.1.0/top_img/default.png
 
 # the banner image of archive page
-archive_img: https://cdn.jsdelivr.net/gh/jerryc127/butterfly_cdn@2.1.0/top_img/archive.jpg
+archive_img: http://iblog.thatwang.com/5a1e22998f77f.jpg
 
 # the banner image of tag page
 tag_img: https://cdn.jsdelivr.net/gh/jerryc127/butterfly_cdn@2.1.0/top_img/tag.png
@@ -246,7 +246,7 @@ valine:
 # ------------------------------------
 since: 2017
 
-footer_custom_text: '欢迎来到我的博客~'
+footer_custom_text: '既然来,别着急走哇~'
 
 footer_copyright:
   enable: true
@@ -295,13 +295,13 @@ qihu_site_verification:
 
 # 友情鏈接界面設置
 Flink:
-  headline: 友情鏈接
-  info_headline: 我的Blog資料
+  headline: 友情链接
+  info_headline: 我的Blog资料
   name: Blog 名字： 汀
   address: Blog 地址： https://jerryc.me/
-  avatar: Blog 頭像： https://jerryc.me/img/avatar.png
-  info: Blog 簡介： 热爱我的热爱
-  comment: 如果需要交換友鏈,請留言
+  avatar: Blog 头像像： https://jerryc.me/img/avatar.png
+  info: Blog 简介： 热爱我的热爱
+  comment: 如果需要交换友链,请留言~
 
 # 打賞按鈕
 reward:
