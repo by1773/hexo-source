@@ -1,21 +1,38 @@
 
 # 这是一个github持续集成/构建的配置文件CICD
 
-sudo: false
 language: node_js
-node_js:
-  - 10 # use nodejs v10 LTS
-cache: npm
+node_js: stable
+
+cache:
+    apt: true
+    directories:
+        - node_modules
+
+before_install:
+    - npm install hexo-cli -g
+
+install:
+  - npm install
+  - npm install hexo-deployer-git --save
+
+script:
+  - hexo clean
+  - hexo g
+
+after_script:
+  - git clone ${GH_REF} hexo-public
+  - cp -rf public/* hexo-public/
+  - cd hexo-public
+  - git config user.name "by1773"
+  - git config user.email "1747837358@qq.com"
+  - git add .
+  - git commit -am "Travis CI Auto Builder..."
+  - git push origin master 
+
 branches:
   only:
-    - master # build master branch only
-script:
-  - hexo generate # generate static files
-deploy:
-  provider: pages
-  skip-cleanup: true
-  github-token: $GH_TOKEN
-  keep-history: true
-  on:
-    branch: master
-  local-dir: public
+    - master
+env:
+ global:
+   - GH_REF: https://by1773:${github_token}@github.com/by1773/by1773.github.io.git 
