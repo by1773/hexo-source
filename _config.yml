@@ -122,3 +122,14 @@ douban:
     title: '游吧'
     quote: 'That is game'
   timeout: 10000 
+  live2d:
+    enable: true
+    scriptFrom: local
+    model:
+      use: live2d-widget-model-epsilon2_1
+    display:
+      position: left
+      width: 150
+      height: 300
+    mobile:
+      show: true

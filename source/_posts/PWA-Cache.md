@@ -52,7 +52,7 @@ caches.match(request, options).then(function(response) {
 ```
 >CacheStorage.has()：返回一个 Promise 对象，用于判断 cacheName 对应的 Cache 对象是否存在。若 cacheName 对应的 Cache 对象存在，则返回 true 否则返回 false。
 
-````
+```
 caches.has(cacheName).then(function(boolean) {
   // true: 缓存存在
 });
