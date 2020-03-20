@@ -111,7 +111,7 @@ deploy:
 # 豆瓣
 douban:
   user: 213823598
-  builtin: false
+  builtin: true
   book:
     title: '书吧'
     quote: 'That is book'
