@@ -46,7 +46,7 @@ post_asset_folder: true
 relative_link: false
 future: true
 highlight:
-  enable: true
+  enable: false
   line_number: true
   auto_detect: false
   tab_replace: ''
@@ -109,16 +109,16 @@ deploy:
   branch: master
 
 # 豆瓣
-  douban:
-    user: 213823598
-    builtin: true
-    book:
-      title: 'This is my book title'
-      quote: 'This is my book quote'
-    movie:
-      title: 'This is my movie title'
-      quote: 'This is my movie quote'
-    game:
-      title: 'This is my game title'
-      quote: 'This is my game quote'
-    timeout: 10000 
+douban:
+  user: 213823598
+  builtin: false
+  book:
+    title: '书吧'
+    quote: 'That is book'
+  movie:
+    title: '影吧'
+    quote: 'That is movie'
+  game:
+    title: '游吧'
+    quote: 'That is game'
+  timeout: 10000 

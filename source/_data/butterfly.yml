@@ -21,16 +21,26 @@ menu:
   分类: /categories/ || fa fa-folder-open 
   清单|| fa fa-heartbeat: 
     - 音乐|| /music/ || fa fa-music 
-    - 照片|| /Gallery/ || fa fa-picture-o 
+    - 照片|| /gallery/ || fa fa-picture-o 
     - 电影|| /movies/ || fa fa-film 
   # 清单||fa fa-heartbeat:
   #       - 音乐 || /music/ || fa fa-music
   #       - 电影 || /movies/ || fa fa-film
   友链: /link/ || fa fa-link 
   关于: /about/ || fa fa-heart
+  留言板: /message/ || fa-fw fa fa-coffee
 
+# 增加了图片页面-------------------------------
+gallery: 
+  title: 我的相册   #标题
+  icon: fa fa-images            #这个显示相册页面的图标
+  icon2: fa fa-image            #这个显示自己的具体相册里面的相册的图标
 
-# Favicon
+PhotoVerifyPassword:
+  enable: true
+  promptMessage: 该相册已加密，请输入密码访问
+  errorMessage: 密码错误，将返回主页！
+# Favicon---------------------------------------------------
 # ---------------
 favicon: /img/favicon.ico
 
@@ -48,7 +58,7 @@ favicon: /img/favicon.ico
 
 # Highlight theme
 # ---------------
-highlight_theme: pale night # default / darker / pale night / light / ocean
+highlight_theme: darker # default / darker / pale night / light / ocean
 highlight_copy: true #代碼複製按鈕
 highlight_lang: true #代碼語言顯示
 highlight_shrink: false # true 全部代碼框不展開，需點擊 '>' 打開 / false 代碼框展開，有'>'點擊按鈕 | none 代碼框展開，不顯示 '>' 按鈕
