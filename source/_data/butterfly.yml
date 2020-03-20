@@ -21,7 +21,7 @@ menu:
   分类: /categories/ || fa fa-folder-open 
   清单|| fa fa-heartbeat: 
     - 音乐|| /music/ || fa fa-music 
-    - 照片|| /gallery/ || fa fa-picture-o 
+    - 照片|| /Gallery/ || fa fa-picture-o 
     - 电影|| /movies/ || fa fa-film 
   # 清单||fa fa-heartbeat:
   #       - 音乐 || /music/ || fa fa-music
