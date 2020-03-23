@@ -132,4 +132,4 @@ douban:
       width: 150
       height: 300
     mobile:
-      show: true
+      show: false
