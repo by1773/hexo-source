@@ -5,7 +5,7 @@ tags: ['ts','js']
 categories: 前端
 keywords: ['ts','js']
 top_img: https://goss1.cfp.cn/creative/vcg/veer/400/new/VCG41N680280554.jpg?x-oss-process=image/format,webp
-cover : https://goss1.cfp.cn/creative/vcg/nowater800/new/1d6e8b76d174484fa491959c72623178.jpg?x-oss-process=image/format,webp
+cover : https://goss4.cfp.cn/creative/vcg/nowarter800/new/VCG211252262751.jpg?x-oss-process=image/format,webp
 ---
  ## TS 工具类型，开发事半功倍
 

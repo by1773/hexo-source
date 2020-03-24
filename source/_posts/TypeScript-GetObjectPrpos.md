@@ -5,7 +5,7 @@ tags: ['ts','js']
 categories: 前端
 keywords: ['ts','js']
 top_img: https://goss1.cfp.cn/creative/vcg/veer/400/new/VCG41N680280554.jpg?x-oss-process=image/format,webp
-cover : https://goss1.cfp.cn/creative/vcg/nowater800/new/1d6e8b76d174484fa491959c72623178.jpg?x-oss-process=image/format,webp
+cover : https://goss3.cfp.cn/creative/vcg/veer/nowarter800/new/VCG41N514576868.jpg?x-oss-process=image/format,webp
 ---
 ## 舒适访问对象深层次属性~
 

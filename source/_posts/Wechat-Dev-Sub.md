@@ -5,7 +5,7 @@ tags: ['微信']
 categories: 微信开发
 keywords: ['微信开发']
 top_img: https://goss1.cfp.cn/creative/vcg/veer/400/new/VCG41N680280554.jpg?x-oss-process=image/format,webp
-cover : https://goss1.cfp.cn/creative/vcg/nowater800/new/1d6e8b76d174484fa491959c72623178.jpg?x-oss-process=image/format,webp
+cover : https://www.xmtzxm.com/uploads/allimg/181224/5-1Q22419514Q18.jpg
 ---
 
 现如今，微信已经不再只承担着交流沟通、娱乐大众的功能，微信公众号的推出将微信逐渐转变成个人、商家、企业单位用来营销的重要工具。而微信推出的公众号开发功能，为我们码农带来很大的方便，让我们创造出更多的可能性。
@@ -347,7 +347,9 @@ request.post({
 
 msgtype: 是消息类型，上面注释掉的是文本消息，下面是个图片消息，touser是用户的openid，这里我只是取过来直接使用的，这里跟上面接收消息后处理给用户发消息有写重复，就不多介绍了
 
-3.模版消息大家肯定很熟悉，比如Worktile的微信公众号接收任务消息通知，这样的消息就是模版消息
+### **3、模版消息**
+
+模版消息大家肯定很熟悉，比如Worktile的微信公众号接收任务消息通知，这样的消息就是模版消息
 
 ![img](./wechat-03.png)
 
