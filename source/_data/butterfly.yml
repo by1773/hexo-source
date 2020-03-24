@@ -26,6 +26,7 @@ menu:
   # 清单||fa fa-heartbeat:
   #       - 音乐 || /music/ || fa fa-music
   #       - 电影 || /movies/ || fa fa-film
+  书籍: /book/ || fa fa-book
   友链: /link/ || fa fa-link 
   关于: /about/ || fa fa-heart
   留言板: /message/ || fa-fw fa fa-coffee
