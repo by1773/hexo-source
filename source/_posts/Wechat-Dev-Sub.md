@@ -18,7 +18,7 @@ cover : https://goss1.cfp.cn/creative/vcg/nowater800/new/1d6e8b76d174484fa491959
 
 **·**填写服务器配置
 
-![img](https://mmbiz.qpic.cn/mmbiz_png/Gvw2d1XaJ6DPWICKibYXY8bObhzrLibO32K9zxialjv3IEJ7ca1Eftw4r559o10mdAsxJ7YiaKfWFl5oQAVDG11Llw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![img](./wechat-01.png)
 
 *说明：URL是开发者用来接收微信消息和事件的接口URL，该接口尽量写成两个请求方式，1:get请求，用于验证如下地址有效性，2:post请求, 用于接收消息和事件，Token 可以随便定义用于验证接口签名有效性, EncodingAESKey是加密的密钥，下面加密方式选兼容模式或者安全模式的时候开发者可根据该密钥对数据进行加解密*
 
@@ -26,7 +26,7 @@ cover : https://goss1.cfp.cn/creative/vcg/nowater800/new/1d6e8b76d174484fa491959
 
 根据官方文档的说明，微信验证接口会带下面几个参数
 
-![img](https://mmbiz.qpic.cn/mmbiz_png/Gvw2d1XaJ6DPWICKibYXY8bObhzrLibO32sxmDewLAIGwZzibEXYzparwuVUcKfueehO4JtlOygbkGMM8xc2VqWZg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![img](./wechat-02.png)
 
 端接口接收到这些参数后进行签名验证，如下代码：
 
@@ -349,11 +349,11 @@ msgtype: 是消息类型，上面注释掉的是文本消息，下面是个图�
 
 3.模版消息大家肯定很熟悉，比如Worktile的微信公众号接收任务消息通知，这样的消息就是模版消息
 
-![img](https://mmbiz.qpic.cn/mmbiz_png/Gvw2d1XaJ6DPWICKibYXY8bObhzrLibO32D0b7mF85YlojCrv3xFJ3eUMQ4ejz79t4ANhnlvl4ZiaBJ1htGTg2QOg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![img](./wechat-03.png)
 
 模版消息相对来说复杂一下，首先要从公众号添加或者申请消息模版，如下图
 
-![img](https://mmbiz.qpic.cn/mmbiz_png/Gvw2d1XaJ6DPWICKibYXY8bObhzrLibO32CRLPAl5EbiaLL17tN0EOo9NWFSYngyanoYDviaicvDNNbkqYOaC5YIOsA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![img](./wechat-04.png)
 
 
 
