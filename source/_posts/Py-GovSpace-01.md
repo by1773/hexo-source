@@ -4,8 +4,8 @@ date: 2020-03-21 08:46:52
 tags: ['码爬']
 categories: 码爬
 keywords: ['码爬','python']
-top_img: https://goss1.cfp.cn/creative/vcg/veer/400/new/VCG41N680280554.jpg?x-oss-process=image/format,webp
-cover : https://www.xmtzxm.com/uploads/allimg/181224/5-1Q22419514Q18.jpg
+top_img: https://goss.cfp.cn/creative/vcg/nowarter800/version2/gic11136091.jpg?x-oss-process=image/format,webp
+cover : https://goss.cfp.cn/creative/vcg/nowarter800/version2/gic11136091.jpg?x-oss-process=image/format,webp
 ---
 ## 国家统计局统计用区划代码和城乡划分代码爬虫 (二)--实现
 
