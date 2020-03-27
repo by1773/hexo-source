@@ -131,5 +131,5 @@ douban:
       position: left
       width: 150
       height: 300
-    mobile:
-      show: false
+  mobile:
+    show: false
