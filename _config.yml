@@ -4,13 +4,13 @@
 
 # Site
 title: 汀
-subtitle: ''
+subtitle: 
 description: 'some code,some mood'
-keywords:
+keywords: 'code and blog'
 author: YoungBoy
 language: zh-CN
-timezone: ''
-email: '1747837358@qq.com'
+timezone: 
+email: 'live_devOps@163.com'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'

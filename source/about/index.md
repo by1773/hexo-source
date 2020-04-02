@@ -7,6 +7,7 @@ comments: false
 ### 软件开发工程师
 &emsp;&emsp;继续爱心，继续大度；我会像对待我的代码一样对待"你"，我的代码怎么可能有问题，我的代码是没有错的，就算有错也是由我来改！
 <!-- <div align="center"> -->
-  ![markdown](http://q7hgnfyvz.bkt.clouddn.com/about.jpg)
+  <!-- ![markdown](http://q7hgnfyvz.bkt.clouddn.com/about.jpg) -->
 <!-- </div> -->
 <!--  -->
+<img  align="center" src="http://q7hgnfyvz.bkt.clouddn.com/about.jpg" width="60%">
