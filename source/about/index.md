@@ -10,4 +10,21 @@ comments: false
   <!-- ![markdown](http://q7hgnfyvz.bkt.clouddn.com/about.jpg) -->
 <!-- </div> -->
 <!--  -->
+### 技能：
+- java: SpringBoot SpringMVC SpringCloud
+- 数据库：MySql Redis PostGis MongoDB Mybatis
+- 中间件：RabbitMQ ...
+- PC端:Angularjs Vuejs ReactJs
+- 移动端：ReactNative Flutter Ionic
+- 桌面端：electorn
+- 微信（小程序）：Taro MapVue
+- 微信（服务号、订阅号）：TouchUI WeUI
+- WebGIS: Openlayers Arcgis Api For Javascript Cesiumjs
+- 地图服务：Geoserver SuperMap ArcGisEngine
+- 包管理工具（后端）：Maven Gradle
+- 包管理工具（前端）：Npm Webpack Yarn Lerna Grunt
+- Node: Koa2 Express Eggjs Nestjs
+- SPA-SEO/SSR: Nuxtjs Nextjs Angulr-Universal 
+- 部署：Gitlab Jenkins Docker
 <img  align="center" src="http://q7hgnfyvz.bkt.clouddn.com/about.jpg" width="60%">
+p
