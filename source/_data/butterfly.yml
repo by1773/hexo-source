@@ -49,7 +49,7 @@ favicon: /img/favicon.ico
 
 # Highlight theme
 # ---------------
-highlight_theme: darker # default / darker / pale night / light / ocean
+highlight_theme: pale night # default / darker / pale night / light / ocean
 highlight_copy: true #代碼複製按鈕
 highlight_lang: true #代碼語言顯示
 highlight_shrink: false # true 全部代碼框不展開，需點擊 '>' 打開 / false 代碼框展開，有'>'點擊按鈕 | none 代碼框展開，不顯示 '>' 按鈕
