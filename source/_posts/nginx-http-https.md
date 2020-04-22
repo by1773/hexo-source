@@ -1,12 +1,11 @@
 ---
 title: 基于docker、nginx配置通过http/https访问服务
-cover: https://bkimg.cdn.bcebos.com/pic/94cad1c8a786c917f04d4592c33d70cf3ac757ca?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg
+cover: https://bkimg.cdn.bcebos.com/pic/94cad1c8a786c917f04d4592c33d70cf3ac757ca
 top_image: http://nginx.org/nginx.png
 date: 2020-04-22 17:00:00
 tags: nginx
 categories : nginx
 keywords: ['nginx','部署']
-
 ---
 # 基于docker、nginx配置通过http/https访问服务
 
