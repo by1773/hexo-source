@@ -27,5 +27,4 @@ comments: false
 - Node: Koa2 Express Eggjs Nestjs
 - SPA-SEO/SSR: Nuxtjs Nextjs Angulr-Universal 
 - 部署：Gitlab Jenkins Docker
-<img  align="center" src="http://q7hgnfyvz.bkt.clouddn.com/about.jpg" width="60%">
-p
+<img  align="center" src="./about.jpg" width="60%">
