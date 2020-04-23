@@ -124,6 +124,8 @@ douban:
   timeout: 10000 
   live2d:
     enable: true
+    mobile:
+      show: false
     scriptFrom: local
     model:
       use: live2d-widget-model-epsilon2_1
@@ -131,5 +133,4 @@ douban:
       position: left
       width: 150
       height: 300
-  mobile:
-    show: false
+  
