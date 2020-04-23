@@ -2,7 +2,8 @@
 # 这是一个github持续集成/构建的配置文件CICD
 
 language: node_js
-node_js: stable
+# node_js: stable
+node_js: 10.15.0
 
 cache:
     apt: true
