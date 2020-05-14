@@ -345,7 +345,8 @@ theme_color:
 # 主頁設置
 # 默認top_img全屏，site_info在中間
 # 使用默認, 都無需填寫（建議默認）
-index_top_img_height: 450px
+index_top_img_height: 
+  # 450px
   #主頁top_img高度 例如 300px/300em/300rem  不能使用百分比
 
 # 主頁文章COVER顯示位置
