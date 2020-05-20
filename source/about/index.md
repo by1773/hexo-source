@@ -38,10 +38,11 @@ comments: false
 - 部署：Gitlab Jenkins Docker
 
 ### 我的：
-- 博客：https:it-ing.cn
+- 个人博客：https:it-ing.cn
 - 个人网站前台：https:art-alive.cn
 - 个人网站接口：https:api.art-alive.cn
 - 个人网站后台：https:admin.art-alive.cn
 - 个性网站：https:h5.art-alive.cn
 - ......持续跟新中......
+
 <img  align="center" src="./about.jpg" width="60%">
