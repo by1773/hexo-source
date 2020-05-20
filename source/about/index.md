@@ -1,3 +1,11 @@
+<!--
+ * @Descripttion: 
+ * @version: 
+ * @Author: by1773
+ * @Date: 2020-03-18 10:01:38
+ * @LastEditors: by1773
+ * @LastEditTime: 2020-05-20 17:35:57
+--> 
 ---
 title: 关于我
 date: 2020-03-18 10:01:38
@@ -17,7 +25,8 @@ comments: false
 - 中间件：RabbitMQ ...
 - PC端:Angularjs Vuejs ReactJs
 - 移动端：ReactNative Flutter Ionic
-- 桌面端：electorn
+- 桌面端：Electorn
+- 接口规范：Rest GraphQL
 - 微信（小程序）：Taro MapVue
 - 微信（服务号、订阅号）：TouchUI WeUI
 - WebGIS: Openlayers Arcgis Api For Javascript Cesiumjs
@@ -27,4 +36,12 @@ comments: false
 - Node: Koa2 Express Eggjs Nestjs
 - SPA-SEO/SSR: Nuxtjs Nextjs Angulr-Universal 
 - 部署：Gitlab Jenkins Docker
+
+### 我的：
+- 博客：https:it-ing.cn
+- 个人网站前台：https:art-alive.cn
+- 个人网站接口：https:api.art-alive.cn
+- 个人网站后台：https:admin.art-alive.cn
+- 个性网站：https:h5.art-alive.cn
+- ......持续跟新中......
 <img  align="center" src="./about.jpg" width="60%">
