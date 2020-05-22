@@ -36,6 +36,7 @@ comments: false
 - 个人网站接口：https://pi.art-alive.cn
 - 个人网站后台：https://admin.art-alive.cn
 - 个性网站：https://h5.art-alive.cn
+- 其它：https://iting.life
 - ......持续跟新中......
 
 <img  align="center" src="./about.jpg" width="60%">
