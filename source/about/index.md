@@ -1,11 +1,3 @@
-<!--
- * @Descripttion: 
- * @version: 
- * @Author: by1773
- * @Date: 2020-03-18 10:01:38
- * @LastEditors: by1773
- * @LastEditTime: 2020-05-20 17:35:57
---> 
 ---
 title: 关于我
 date: 2020-03-18 10:01:38
@@ -36,6 +28,7 @@ comments: false
 - Node: Koa2 Express Eggjs Nestjs
 - SPA-SEO/SSR: Nuxtjs Nextjs Angulr-Universal 
 - 部署：Gitlab Jenkins Docker
+- Cloud: HuaWei Aliyun Tencent Sanfengyun
 
 ### 我的：
 - 个人博客：https:it-ing.cn
