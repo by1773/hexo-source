@@ -16,20 +16,25 @@
 #     - Movie || /movies/ || fa fa-film
 menu: 
   首页: / || fa fa-home 
-  时间轴: /archives/ || fa fa-archive 
-  标签: /tags/ || fa fa-tags 
-  分类: /categories/ || fa fa-folder-open 
-  清单|| fa fa-heartbeat: 
+  书籍: /book/ || fa fa-book
+  友链: /link/ || fa fa-link 
+  文章 || fa-fw fa fa-server:
+    - 时间 ||  /archives/ || fa fa-archive 
+    - 标签 || /tags/ || fa fa-tags 
+    - 分类 || /categories/ || fa fa-folder-open 
+  兴趣|| fa fa-heartbeat: 
     - 音乐|| /music/ || fa fa-music 
     - 照片|| /Gallery/ || fa fa-picture-o 
     - 电影|| /movies/ || fa fa-film 
   # 清单||fa fa-heartbeat:
   #       - 音乐 || /music/ || fa fa-music
   #       - 电影 || /movies/ || fa fa-film
-  书籍: /book/ || fa fa-book
-  友链: /link/ || fa fa-link 
-  关于: /about/ || fa fa-heart
-  留言板: /message/ || fa-fw fa fa-coffee
+  我的 || fa fa-user:
+    - 关于 || /about/ || fa fa-heart
+    - 留言 ||  /message/ || fa-fw fa fa-coffee
+  更多 || fa fa-list:
+    - 收藏盒 ||  https://tool.art-alive.cn/cn/index.html || fa-fw fa fa-coffee
+    - 创造师 || http://chuangzaoshi.com || fa fa-paper-plane
 
 
 # ---------------
@@ -38,14 +43,14 @@ favicon: /img/favicon.ico
 # PWA
 # See https://github.com/JLHwung/hexo-offline
 # ---------------
-# pwa:
-#   enable: true
-#   manifest: /img/pwa/manifest.json
-#   theme_color: "#fff"
-#   apple_touch_icon: /img/pwa/apple-touch-icon.png
-#   favicon_32_32: /img/pwa/32.png
-#   favicon_16_16: /img/pwa/16.png
-#   mask_icon: /img/pwa/safari-pinned-tab.svg
+pwa:
+  enable: true
+  manifest: /img/pwa/manifest.json
+  theme_color: "#fff"
+  apple_touch_icon: /img/pwa/apple-touch-icon.png
+  favicon_32_32: /img/pwa/32.png
+  favicon_16_16: /img/pwa/16.png
+  mask_icon: /img/pwa/safari-pinned-tab.svg
 
 # Highlight theme
 # ---------------
@@ -451,18 +456,20 @@ preloader: true
 # 全局字體
 font:
   enable: true
-  font-family: Lato, Helvetica Neue For Number, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, PingFang SC, Hiragino Sans GB, MicrMicrosoft YaHei", Helvetica Neue, Helvetica, Arial, sans-serif
+  # font-family: Lato, Helvetica Neue For Number, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, PingFang SC, Hiragino Sans GB, MicrMicrosoft YaHei", Helvetica Neue, Helvetica, Arial, sans-serif
   # font-family: DFGirl1B
   # font-family: ZCOOL KuaiLe, ZCOOL QingKe HuangYou, Ma Shan Zheng, Long Cang, oswald, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif, Helvetica Neue For Number, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, PingFang SC, Hiragino Sans GB, "Microsoft YaHei", Helvetica Neue, Helvetica, Arial, sans-serif
-  
+  font-family:  ZCOOL KuaiLe
   # code-font: consolas, Menlo, "PingFang SC", "Microsoft YaHei", monospace, Helvetica Neue For Number
 
 # 網站名字字體
 # 左上角網站名字 主頁居中網站名字
 blog_title_font:
   # font-family: DFGirl1B
-  font_link: https://fonts.googleapis.com/css?family=Titillium+Web #字體鏈接
-  font-family: Titillium Web, PingFang SC, Hiragino Sans GB, "Microsoft YaHei", Helvetica Neue, Helvetica, Arial, sans-serif
+  # font_link: https://fonts.googleapis.com/css?family=Titillium+Web #字體鏈接
+   font-family: ZCOOL KuaiLe
+   font_link: https://fonts.googleapis.com/css?family=ZCOOL+KuaiLe
+  # font-family: Titillium Web, PingFang SC, Hiragino Sans GB, "Microsoft YaHei", Helvetica Neue, Helvetica, Arial, sans-serif
   # font-family: ZCOOL KuaiLe, ZCOOL QingKe HuangYou, Ma Shan Zheng, Long Cang, oswald, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif, Helvetica Neue For Number, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, PingFang SC, Hiragino Sans GB, "Microsoft YaHei", Helvetica Neue, Helvetica, Arial, sans-serif;
 # 水平分隔綫
 hr:
