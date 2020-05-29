@@ -30,6 +30,8 @@ comments: false
 - 部署：Gitlab Jenkins Docker
 - Cloud: HuaWei Aliyun Tencent Sanfengyun
 
+
+
 ### 我的：
 - 个人博客：https://it-ing.cn
 - 个人网站前台：https://art-alive.cn
