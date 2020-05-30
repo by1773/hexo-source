@@ -1,6 +1,7 @@
 if theme.aside.card_author
   include ./card_author.pug
-
+if theme.aside.card_calendar
+        !=partial('includes/widget/card_calendar', {}, {cache:theme.fragment_cache})
 if theme.aside.card_announcement
   include ./card_announcement.pug
 
