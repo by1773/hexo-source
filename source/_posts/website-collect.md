@@ -1,11 +1,16 @@
 ---
 title: 实用网站收藏
-date: 2020-05-27 12:00:00
-tags: ['实用网站']
+tags:
+  - 实用网站
 categories: 收藏
-keywords: ['实用网站','收藏','工具']
+keywords:
+  - 实用网站
+  - 收藏
+  - 工具
 top_img: /2020/05/27/website-collect/res.png
-cover : /2020/05/27/website-collect/res.png
+cover: /2020/05/27/website-collect/res.png
+abbrlink: 25392
+date: 2020-05-27 12:00:00
 ---
 **搞学习**
 
@@ -158,16 +163,16 @@ cover : /2020/05/27/website-collect/res.png
 - 新CG儿（视频素材模板，无水印+免费下载）：https://www.newcger.com/
 - Iconfont（阿里巴巴矢量图标库）：https://www.iconfont.cn/
 - 小图标下载：https://www.easyicon.net/Flight
- - Icon：https://www.flighticon.co/
- - 第一字体转换器：http://www.diyiziti.com/
- - doyoudosh（平面设计）：www.doyoudo.com
- - 企业宣传视频在线制作：https://duomu.tv/
- - MAKE海报设计官网：http://maka.im/
- - 一键海报神器：https://www.logosc.cn/photo/?utm_source=hao.logosc.cn&utm_medium=referral
- - 字由（字体设计）：http://www.hellofont.cn/
- - 查字体网站：https://fonts.safe.360.cn/
- - 爱给网（免费素材下载的网站，包括音效、配乐，3D、视频、游戏，平面、教程）：http://www.aigei.com/
- - 在线视频剪辑：https://bilibili.clipchamp.com/editor
+- Icon：https://www.flighticon.co/
+- 第一字体转换器：http://www.diyiziti.com/
+- doyoudosh（平面设计）：www.doyoudo.com
+- 企业宣传视频在线制作：https://duomu.tv/
+- MAKE海报设计官网：http://maka.im/
+- 一键海报神器：https://www.logosc.cn/photo/?utm_source=hao.logosc.cn&utm_medium=referral
+- 字由（字体设计）：http://www.hellofont.cn/
+- 查字体网站：https://fonts.safe.360.cn/
+- 爱给网（免费素材下载的网站，包括音效、配乐，3D、视频、游戏，平面、教程）：http://www.aigei.com/
+- 在线视频剪辑：https://bilibili.clipchamp.com/editor
 
 
 ## **搞文档**

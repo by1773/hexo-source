@@ -1,5 +1,7 @@
+
 if is_home()
   - var top_img = theme.index_img || theme.default_top_img
+
 else if is_archive()
   - var top_img = theme.archive_img || theme.default_top_img
 else if is_tag()
@@ -78,3 +80,5 @@ if !is_post()
 
 if theme.blog_title_font.font_link
   link(rel='stylesheet', href=url_for(theme.blog_title_font.font_link))
+
+

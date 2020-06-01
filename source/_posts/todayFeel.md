@@ -1,10 +1,13 @@
 ---
 title: 生活
-categories: '随笔'
-tags: '记事儿不记人'
+categories: 随笔
+tags: 记事儿不记人
 date: 2018-6-23
-cover: 'https://goss3.cfp.cn/creative/vcg/nowarter800/version2/126163465.jpg?x-oss-process=image/format,webp'
-top_img : 'https://goss.cfp.cn/creative/vcg/nowarter800/new/VCG211128138669.jpg?x-oss-process=image/format,webp'
+cover: >-
+  https://goss3.cfp.cn/creative/vcg/nowarter800/version2/126163465.jpg?x-oss-process=image/format,webp
+top_img: >-
+  https://goss.cfp.cn/creative/vcg/nowarter800/new/VCG211128138669.jpg?x-oss-process=image/format,webp
+abbrlink: 39646
 ---
 <!-- Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues). -->
 

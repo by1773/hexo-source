@@ -1,11 +1,15 @@
 ---
 title: GIS数据获取途径
-date: 2020-04-26 08:26:52
-tags: ['GIS']
+tags:
+  - GIS
 categories: GIS
-keywords: ['GIS','地理信息系统']
+keywords:
+  - GIS
+  - 地理信息系统
 top_img: ./cover.jpg
-cover : ./2020/04/26/gis-data/cover.jpg
+cover: ./2020/04/26/gis-data/cover.jpg
+abbrlink: 27524
+date: 2020-04-26 08:26:52
 ---
 #   GIS数据获取途径
 

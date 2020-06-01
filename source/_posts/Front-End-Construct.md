@@ -1,11 +1,20 @@
 ---
 title: 初谈软件架构与前端架构演进
-date: 2020-03-03 11:15:08
-tags: ['软件架构','前端','MVC']
+tags:
+  - 软件架构
+  - 前端
+  - MVC
 categories: 前端架构
-keywords: ['软件架构','前端','MVC']
-top_img : https://goss1.cfp.cn/creative/vcg/nowater800/new/476ec4adea9d4b4591e5544ead85dee3.jpg?x-oss-process=image/format,webp
-cover : https://goss2.cfp.cn/creative/vcg/nowater800/new/b1cdc36c1c9342b281ac4d24dc61117a.jpg?x-oss-process=image/format,webp
+keywords:
+  - 软件架构
+  - 前端
+  - MVC
+top_img: >-
+  https://goss1.cfp.cn/creative/vcg/nowater800/new/476ec4adea9d4b4591e5544ead85dee3.jpg?x-oss-process=image/format,webp
+cover: >-
+  https://goss2.cfp.cn/creative/vcg/nowater800/new/b1cdc36c1c9342b281ac4d24dc61117a.jpg?x-oss-process=image/format,webp
+abbrlink: 62548
+date: 2020-03-03 11:15:08
 ---
 # 初谈软件架构及前端架构演进
 

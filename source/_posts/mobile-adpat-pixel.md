@@ -1,10 +1,13 @@
 ---
-title: 'H5移动端适配'
+title: H5移动端适配
+tags: 适配
+categories: 移动端
+cover: >-
+  https://goss2.cfp.cn/creative/vcg/nowarter800/new/VCG211246652444.jpg?x-oss-process=image/format,webp
+top_img: >-
+  https://goss2.cfp.cn/creative/vcg/nowarter800/new/VCG211246652444.jpg?x-oss-process=image/format,webp
+abbrlink: 11762
 date: 2020-04-08 10:00:00
-tags : '适配'
-categories : '移动端'
-cover : 'https://goss2.cfp.cn/creative/vcg/nowarter800/new/VCG211246652444.jpg?x-oss-process=image/format,webp'
-top_img: https://goss2.cfp.cn/creative/vcg/nowarter800/new/VCG211246652444.jpg?x-oss-process=image/format,webp
 ---
 # @media H5移动端屏幕适配
 

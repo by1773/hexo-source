@@ -1,16 +1,19 @@
 ---
 title: PWA-Cache
-date: 2020-03-19 09:59:02
-tags: [TypeScript,PWA]
+tags:
+  - TypeScript
+  - PWA
 categories: 前端
-keywords: [Ts,PWA,js]
-description:
+keywords:
+  - Ts
+  - PWA
+  - js
 top_img: 'https://www.typescriptlang.org/assets/images/foreground_bluprint.svg'
-# comments  是否顯示評論(除非設置false,可以不寫)
-cover:  'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1584595114319&di=34b083f9787eeaef1e031bba0468e8e5&imgtype=0&src=http%3A%2F%2Fwww.west.cn%2Fcms%2Fimages%2F2018-07-31%2Fny1xnm0i0op.jpg'
-# toc:  是否顯示toc (除非特定文章設置，可以不寫)
-# toc_number: 是否顯示toc數字 (除非特定文章設置，可以不寫)
-# copyright: 是否顯示版權 (除非特定文章設置，可以不寫)
+cover: >-
+  https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1584595114319&di=34b083f9787eeaef1e031bba0468e8e5&imgtype=0&src=http%3A%2F%2Fwww.west.cn%2Fcms%2Fimages%2F2018-07-31%2Fny1xnm0i0op.jpg
+abbrlink: 26282
+date: 2020-03-19 09:59:02
+description:
 mathjax:
 katex:
 hide:

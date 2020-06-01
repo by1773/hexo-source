@@ -1,11 +1,14 @@
 ---
-title : lerna 包管理
-date: 2020-04-09 23:23:23
+title: lerna 包管理
 tags: lerna
-categories : 包管理（前端）
-keywords: ['lerna','包管理']
-cover: https://lerna.js.org/images/lerna-hero.svg
-top_img: https://lerna.js.org/images/lerna-hero.svg
+categories: 包管理（前端）
+keywords:
+  - lerna
+  - 包管理
+cover: 'https://lerna.js.org/images/lerna-hero.svg'
+top_img: 'https://lerna.js.org/images/lerna-hero.svg'
+abbrlink: 62857
+date: 2020-04-09 23:23:23
 ---
 
 

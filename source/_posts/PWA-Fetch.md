@@ -1,10 +1,14 @@
 ---
 title: PWA-Fetch
-date: 2020-03-19 09:29:12
-tags: [TypeScript,PWA]
+tags:
+  - TypeScript
+  - PWA
 categories: 前端
 top_img: 'https://www.typescriptlang.org/assets/images/foreground_bluprint.svg'
-cover:  'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1584595114319&di=34b083f9787eeaef1e031bba0468e8e5&imgtype=0&src=http%3A%2F%2Fwww.west.cn%2Fcms%2Fimages%2F2018-07-31%2Fny1xnm0i0op.jpg'
+cover: >-
+  https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1584595114319&di=34b083f9787eeaef1e031bba0468e8e5&imgtype=0&src=http%3A%2F%2Fwww.west.cn%2Fcms%2Fimages%2F2018-07-31%2Fny1xnm0i0op.jpg
+abbrlink: 42769
+date: 2020-03-19 09:29:12
 ---
 # PWA-fetch API 
 >Progressive Web App （PWA）是渐进增强 Web App，它能让我们在不可靠的网络上也能快速加载、能够接收桌面通知、具有桌面图标，并且可采用顶层全屏体验的方式加载。

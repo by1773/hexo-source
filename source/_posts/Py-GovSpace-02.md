@@ -1,11 +1,17 @@
 ---
 title: 国家统计局统计用区划代码和城乡划分代码爬虫(一)
-date: 2020-03-21 08:46:52
-tags: ['码爬']
+tags:
+  - 码爬
 categories: 码爬
-keywords: ['码爬','python']
-top_img: https://goss.cfp.cn/creative/vcg/nowarter800/version2/gic11136091.jpg?x-oss-process=image/format,webp
-cover : https://goss.cfp.cn/creative/vcg/nowarter800/version2/gic11136091.jpg?x-oss-process=image/format,webp
+keywords:
+  - 码爬
+  - python
+top_img: >-
+  https://goss.cfp.cn/creative/vcg/nowarter800/version2/gic11136091.jpg?x-oss-process=image/format,webp
+cover: >-
+  https://goss.cfp.cn/creative/vcg/nowarter800/version2/gic11136091.jpg?x-oss-process=image/format,webp
+abbrlink: 57156
+date: 2020-03-21 08:46:52
 ---
 
 ## 国家统计局统计用区划代码和城乡划分代码爬虫 (一)--分析

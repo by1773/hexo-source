@@ -1,11 +1,18 @@
 ---
 title: 舒适访问对象深层次属性~
-date: 2020-03-24 08:26:52
-tags: ['ts','js']
+tags:
+  - ts
+  - js
 categories: 前端
-keywords: ['ts','js']
-top_img: https://goss1.cfp.cn/creative/vcg/veer/400/new/VCG41N680280554.jpg?x-oss-process=image/format,webp
-cover : https://goss3.cfp.cn/creative/vcg/veer/nowarter800/new/VCG41N514576868.jpg?x-oss-process=image/format,webp
+keywords:
+  - ts
+  - js
+top_img: >-
+  https://goss1.cfp.cn/creative/vcg/veer/400/new/VCG41N680280554.jpg?x-oss-process=image/format,webp
+cover: >-
+  https://goss3.cfp.cn/creative/vcg/veer/nowarter800/new/VCG41N514576868.jpg?x-oss-process=image/format,webp
+abbrlink: 11138
+date: 2020-03-24 08:26:52
 ---
 ## 舒适访问对象深层次属性~
 

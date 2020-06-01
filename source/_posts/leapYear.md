@@ -1,9 +1,11 @@
 ---
-title: '2020年2月末端'
+title: 2020年2月末端
+cover: 'https://goss.vcg.com/html/images/psimg/500px-person/VCG21gic15084408.jpg'
+top_img: >-
+  https://goss3.cfp.cn/creative/vcg/nowarter800/version2/gic13561505.jpg?x-oss-process=image/format,webp
+abbrlink: 53095
 date: 2020-02-29 23:23:23
 tags:
-cover : 'https://goss.vcg.com/html/images/psimg/500px-person/VCG21gic15084408.jpg'
-top_img : 'https://goss3.cfp.cn/creative/vcg/nowarter800/version2/gic13561505.jpg?x-oss-process=image/format,webp'
 ---
 四年一遇的日子
 我数着远处多汁的河流

@@ -1,11 +1,19 @@
 ---
 title: 瞎说“进程，线程，异步协程”
-date: 2020-03-23 13:59:03
-tags: ['进程','线程']
+tags:
+  - 进程
+  - 线程
 categories: 后端
-keywords: ['进程','线程','I/O']
-top_img: https://goss3.cfp.cn/creative/vcg/nowater800/new/07ee3a1445cd457aa78be9836c72e51e.jpg?x-oss-process=image/format,webp
-cover : https://goss1.cfp.cn/creative/vcg/nowater800/new/82215c0de4404a9ca5b17b2fe842e5a3.jpg?x-oss-process=image/format,webp
+keywords:
+  - 进程
+  - 线程
+  - I/O
+top_img: >-
+  https://goss3.cfp.cn/creative/vcg/nowater800/new/07ee3a1445cd457aa78be9836c72e51e.jpg?x-oss-process=image/format,webp
+cover: >-
+  https://goss1.cfp.cn/creative/vcg/nowater800/new/82215c0de4404a9ca5b17b2fe842e5a3.jpg?x-oss-process=image/format,webp
+abbrlink: 37956
+date: 2020-03-23 13:59:03
 ---
 # 进程，线程，异步协程
 

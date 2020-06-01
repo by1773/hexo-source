@@ -1,11 +1,15 @@
 ---
 title: 前端换肤的N种方案，请收下
-date: 2020-05-08 10:48:19
-tags: ['CSS']
+tags:
+  - CSS
 categories: 前端
-keywords: ['CSS','前端']
-cover : https://tingres.obs.cn-north-4.myhuaweicloud.com/it-ing.cn/20200503/1.png
-top_img : https://tingres.obs.cn-north-4.myhuaweicloud.com/it-ing.cn/20200503/1.png
+keywords:
+  - CSS
+  - 前端
+cover: 'https://tingres.obs.cn-north-4.myhuaweicloud.com/it-ing.cn/20200503/1.png'
+top_img: 'https://tingres.obs.cn-north-4.myhuaweicloud.com/it-ing.cn/20200503/1.png'
+abbrlink: 61785
+date: 2020-05-08 10:48:19
 ---
 
 ## 前端换肤的N种方案，请收下

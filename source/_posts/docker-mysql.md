@@ -1,11 +1,14 @@
 ---
-title : Docker搭建MySQL服务
-date: 2020-04-09 23:23:23
+title: Docker搭建MySQL服务
 tags: Docker
-categories : Docker
-keywords: ['Docker','MySQL']
-cover: https://labs.mysql.com/common/logos/mysql-logo.svg?v2
-top_img: https://labs.mysql.com/common/logos/mysql-logo.svg?v2
+categories: Docker
+keywords:
+  - Docker
+  - MySQL
+cover: 'https://labs.mysql.com/common/logos/mysql-logo.svg?v2'
+top_img: 'https://labs.mysql.com/common/logos/mysql-logo.svg?v2'
+abbrlink: 18102
+date: 2020-04-09 23:23:23
 ---
 
 # [使用Docker搭建MySQL服务](https://www.cnblogs.com/sablier/p/11605606.html)

@@ -1,11 +1,21 @@
 ---
 title: Rxjs中的Subjects
-date: 2020-03-01 11:15:08
-tags: ['Rxjs','Subjects','Angular','响应式编程']
+tags:
+  - Rxjs
+  - Subjects
+  - Angular
+  - 响应式编程
 categories: Rxjs
-keywords: [Rxjs,Subjects,Angular]
-top_img : https://goss.cfp.cn/creative/vcg/nowarter800/version2/gic11154705.jpg?x-oss-process=image/format,webp
-cover : https://rxjs-dev.firebaseapp.com/generated/images/marketing/home/Rx_Logo-512-512.png
+keywords:
+  - Rxjs
+  - Subjects
+  - Angular
+top_img: >-
+  https://goss.cfp.cn/creative/vcg/nowarter800/version2/gic11154705.jpg?x-oss-process=image/format,webp
+cover: >-
+  https://rxjs-dev.firebaseapp.com/generated/images/marketing/home/Rx_Logo-512-512.png
+abbrlink: 60261
+date: 2020-03-01 11:15:08
 ---
 
 #彻底搞懂RxJS中的Subjects

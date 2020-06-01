@@ -1,11 +1,15 @@
 ---
 title: 初识微信公众号开发
-date: 2020-03-21 08:46:52
-tags: ['微信']
+tags:
+  - 微信
 categories: 微信开发
-keywords: ['微信开发']
-top_img: https://goss1.cfp.cn/creative/vcg/veer/400/new/VCG41N680280554.jpg?x-oss-process=image/format,webp
-cover : https://www.xmtzxm.com/uploads/allimg/181224/5-1Q22419514Q18.jpg
+keywords:
+  - 微信开发
+top_img: >-
+  https://goss1.cfp.cn/creative/vcg/veer/400/new/VCG41N680280554.jpg?x-oss-process=image/format,webp
+cover: 'https://www.xmtzxm.com/uploads/allimg/181224/5-1Q22419514Q18.jpg'
+abbrlink: 57746
+date: 2020-03-21 08:46:52
 ---
 
 现如今，微信已经不再只承担着交流沟通、娱乐大众的功能，微信公众号的推出将微信逐渐转变成个人、商家、企业单位用来营销的重要工具。而微信推出的公众号开发功能，为我们码农带来很大的方便，让我们创造出更多的可能性。

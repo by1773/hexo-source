@@ -1,11 +1,18 @@
 ---
 title: Docker环境下的前后端分离部署与运维
-date: 2020-03-20 13:42:36
-tags: ['Docker','部署']
+tags:
+  - Docker
+  - 部署
 categories: 容器技术
-keywords: ['Docker','容器技术']
-top_img : https://goss2.cfp.cn/creative/vcg/nowarter800/version2/d44c4283c.jpg?x-oss-process=image/format,webp
-cover : https://bkimg.cdn.bcebos.com/pic/2cf5e0fe9925bc31137974de55df8db1cb13704b?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg
+keywords:
+  - Docker
+  - 容器技术
+top_img: >-
+  https://goss2.cfp.cn/creative/vcg/nowarter800/version2/d44c4283c.jpg?x-oss-process=image/format,webp
+cover: >-
+  https://bkimg.cdn.bcebos.com/pic/2cf5e0fe9925bc31137974de55df8db1cb13704b?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg
+abbrlink: 25842
+date: 2020-03-20 13:42:36
 ---
 # Docker环境下的前后端分离部署与运维
 

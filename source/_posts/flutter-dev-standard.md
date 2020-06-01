@@ -1,5 +1,6 @@
 ---
 title: Flutter-Template开发规范(Flutter-go)
+abbrlink: 2345
 date: 2020-03-30 09:03:38
 tags:
 ---

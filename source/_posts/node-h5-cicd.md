@@ -1,11 +1,19 @@
 ---
 title: 使用node从零搭建自动化部署管理平台
-date: 2019-12-02 10:21:05
-tags: ['Nodejs','CICD']
+tags:
+  - Nodejs
+  - CICD
 categories: Node
-keywords: [CICD,Nodejs,js]
-top_img : https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1584706531921&di=e2d267b24c4645b7ac6fae4dce6077ce&imgtype=0&src=http%3A%2F%2Fpic2.zhimg.com%2Fv2-c5da34501a72b33bc3efeec41f84e420_1200x500.jpg
-cover : https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1584706490505&di=540888cde78b81428f59ffb752fbbc91&imgtype=0&src=http%3A%2F%2Fhbimg.b0.upaiyun.com%2F4e7d3308ca59325ec7061e0e40605a8a82f0b6589592-Ycz8k5_fw658
+keywords:
+  - CICD
+  - Nodejs
+  - js
+top_img: >-
+  https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1584706531921&di=e2d267b24c4645b7ac6fae4dce6077ce&imgtype=0&src=http%3A%2F%2Fpic2.zhimg.com%2Fv2-c5da34501a72b33bc3efeec41f84e420_1200x500.jpg
+cover: >-
+  https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1584706490505&di=540888cde78b81428f59ffb752fbbc91&imgtype=0&src=http%3A%2F%2Fhbimg.b0.upaiyun.com%2F4e7d3308ca59325ec7061e0e40605a8a82f0b6589592-Ycz8k5_fw658
+abbrlink: 63746
+date: 2019-12-02 10:21:05
 ---
 # 抛弃jenkins，使用node从零搭建自动化部署管理平台
 

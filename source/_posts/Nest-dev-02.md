@@ -1,11 +1,15 @@
 ---
 title: Nest应用（二）
-date: 2020-04-03 15:00:00
 tags: nest
-categories : nestjs
-keywords: ['nodejs','nest']
-top_img: http://kamilmysliwiec.com/public/nest-logo.png
-cover: https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg
+categories: nestjs
+keywords:
+  - nodejs
+  - nest
+top_img: 'http://kamilmysliwiec.com/public/nest-logo.png'
+cover: >-
+  https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg
+abbrlink: 21285
+date: 2020-04-03 15:00:00
 ---
 # Nest 6.x 快速指南
 

@@ -1,11 +1,15 @@
 ---
-title:  GitHub 精选前端项目
-date: 2020-04-29 11:15:08
-tags: ['GitHub','前端开源项目']
+title: GitHub 精选前端项目
+tags:
+  - GitHub
+  - 前端开源项目
 categories: 前端项目
-keywords: [前端项目]
-top_img : https://desktop.github.com/images/desktop-icon.svg
-cover : https://desktop.github.com/images/desktop-icon.svg
+keywords:
+  - 前端项目
+top_img: 'https://desktop.github.com/images/desktop-icon.svg'
+cover: 'https://desktop.github.com/images/desktop-icon.svg'
+abbrlink: 20093
+date: 2020-04-29 11:15:08
 ---
 ## GitHub 精选前端项目
 

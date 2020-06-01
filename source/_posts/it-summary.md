@@ -1,11 +1,14 @@
 ---
 title: 瞧!技术汇总
-date: 2020-05-14 15:35:08
-tags: ['整理']
+tags:
+  - 整理
 categories: 整理
-keywords: ['整理']
+keywords:
+  - 整理
 top_img: //goss.cfp.cn/creative/vcg/nowarter800/new/VCG41N940143972.jpg
 cover: //goss.cfp.cn/creative/vcg/nowarter800/new/VCG41N940143972.jpg
+abbrlink: 60413
+date: 2020-05-14 15:35:08
 ---
 # 前言
 

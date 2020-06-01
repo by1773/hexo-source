@@ -1,11 +1,20 @@
 ---
 title: 重go吧!
-date: 2020-03-22 17:26:52
-tags: ['java','代码','重构']
+tags:
+  - java
+  - 代码
+  - 重构
 categories: java
-keywords: ['java','代码','重构']
-top_img: https://goss1.cfp.cn/creative/vcg/veer/400/new/VCG41N680280554.jpg?x-oss-process=image/format,webp
-cover : https://goss1.cfp.cn/creative/vcg/nowater800/new/1d6e8b76d174484fa491959c72623178.jpg?x-oss-process=image/format,webp
+keywords:
+  - java
+  - 代码
+  - 重构
+top_img: >-
+  https://goss1.cfp.cn/creative/vcg/veer/400/new/VCG41N680280554.jpg?x-oss-process=image/format,webp
+cover: >-
+  https://goss1.cfp.cn/creative/vcg/nowater800/new/1d6e8b76d174484fa491959c72623178.jpg?x-oss-process=image/format,webp
+abbrlink: 3558
+date: 2020-03-22 17:26:52
 ---
 # 重构代码
 重构不止是代码整理，它提供了一种高效且受控的代码整理技术。

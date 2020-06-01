@@ -1,11 +1,18 @@
 ---
 title: 前端骨架屏生成技术揭秘
-date: 2020-03-25 10:46:52
-tags: ['骨架屏','node']
+tags:
+  - 骨架屏
+  - node
 categories: 前端
-keywords: ['骨架屏','前端']
-top_img: https://goss1.cfp.cn/creative/vcg/veer/400/new/VCG41N680280554.jpg?x-oss-process=image/format,webp
-cover : https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=1912403690,2623160076&fm=26&gp=0.jpg
+keywords:
+  - 骨架屏
+  - 前端
+top_img: >-
+  https://goss1.cfp.cn/creative/vcg/veer/400/new/VCG41N680280554.jpg?x-oss-process=image/format,webp
+cover: >-
+  https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=1912403690,2623160076&fm=26&gp=0.jpg
+abbrlink: 57154
+date: 2020-03-25 10:46:52
 ---
 
 

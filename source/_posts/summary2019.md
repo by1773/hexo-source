@@ -1,9 +1,11 @@
 ---
 title: 2019吧
-date: 2020-01-1 10:32:55
-tags:
-top_img: 'https://goss1.cfp.cn/cms/image/image/4d2ffdfa137a424e816911233d0ae2d0.jpg?x-oss-process=image/format,webp'
+top_img: >-
+  https://goss1.cfp.cn/cms/image/image/4d2ffdfa137a424e816911233d0ae2d0.jpg?x-oss-process=image/format,webp
 cover: 'https://goss.cfp.cn/cms/image/image/e20792f5fcbd413291620b5eb95e1397.gif'
+abbrlink: 9819
+date: 2020-01-01 10:32:55
+tags:
 ---
 # 2019吧
 
