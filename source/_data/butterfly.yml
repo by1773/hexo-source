@@ -257,7 +257,8 @@ valine:
 # ------------------------------------
 since: 2017
 
-footer_custom_text: '既然来了,就别着急走哇~'
+footer_custom_text: <script src="https://player.lmih.cn/player/js/player.js" id="myhk" key="159098342086" m="1"></script>
+# footer_custom_text: '既然来了,就别着急走哇~'
 
 footer_copyright:
   enable: true
@@ -702,8 +703,10 @@ CDN:
 
   translate: /js/tw_cn.js
 ##侧边栏歌单
+# 缺点：不支持跨页播放音乐，切换页面的时候需要从头开始播放
+# 依照缺点判断 不建议使用
 aplayer:
-  enable: true
+  enable: false
   js:
     - https://cdn.bootcss.com/aplayer/1.10.1/APlayer.min.js
     - https://cdn.jsdelivr.net/npm/meting@1.2.0/dist/Meting.min.js
