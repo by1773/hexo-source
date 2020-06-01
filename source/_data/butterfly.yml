@@ -257,8 +257,8 @@ valine:
 # ------------------------------------
 since: 2017
 
-footer_custom_text: <script src="https://player.lmih.cn/player/js/player.js" id="myhk" key="159098342086" m="1"></script>
-# footer_custom_text: '既然来了,就别着急走哇~'
+footer_custom_text: <script src="//lib.baomitu.com/jquery/3.3.1/jquery.min.js"></script><script src="https://player.lmih.cn/player/js/player.js" id="myhk" key="159098342086" m="1"></script>
+footer_custom_text_desc: '既然来了,就别着急走哇~'
 
 footer_copyright:
   enable: true
