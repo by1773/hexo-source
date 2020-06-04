@@ -34,10 +34,11 @@ menu:
     - 留言 ||  /message/ || fa-fw fa fa-coffee
   更多 || fa fa-list:
     - 收藏盒 ||  https://tool.art-alive.cn/cn/index.html || fa-fw fa fa-coffee
+    - 个人网 || https://art-alive.cn || fa-fw fa fa-coffee
+    - 展示网 || https://h5.art-alive.cn || fa-fw fa fa-coffee
     - 创造师 || http://chuangzaoshi.com || fa fa-paper-plane
     - 在线集 || http://www.atoolbox.net || fa fa-unlock
     - Emoji || https://emojipedia.org || fa fa-book
-
 
 # ---------------
 favicon: /img/favicon.ico
