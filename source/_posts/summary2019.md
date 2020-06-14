@@ -5,7 +5,14 @@ top_img: >-
 cover: 'https://goss.cfp.cn/cms/image/image/e20792f5fcbd413291620b5eb95e1397.gif'
 abbrlink: 9819
 date: 2020-01-01 10:32:55
-tags:
+tags: 
+   - 总结
+   - 年吧
+categories: 向后想
+keywords:
+   - 总结
+   - 年吧
+---
 ---
 # 2019吧
 
