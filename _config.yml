@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # SiteX
-title: X
-subtitle: 
+title: Dear Ding
+subtitle:
 description: 'some code,some mood   live_devOps@163.com'
 keywords: 'code and blog'
 author: YoungBoy
 language: zh-CN
-timezone: 
+timezone:
 email: 'live_devOps@163.com'
 
 # URL
@@ -94,8 +94,6 @@ ignore:
 
 # Extensions
 
-
-
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 # theme: landscape
@@ -122,7 +120,7 @@ douban:
   game:
     title: '游吧'
     quote: 'That is game'
-  timeout: 10000 
+  timeout: 10000
 live2d:
   enable: true
   mobile:
@@ -136,8 +134,8 @@ live2d:
     height: 300
 # hexo-tag-cloud
 tag_cloud:
-    textFont: ZCOOL KuaiLe
-    textColor: '#323'
-    textHeight: 18
-    outlineColor: '#E2E1D1' # '#B5B4AA' '#E2E1D1'
-    maxSpeed: 0.2
+  textFont: ZCOOL KuaiLe
+  textColor: '#323'
+  textHeight: 18
+  outlineColor: '#E2E1D1' # '#B5B4AA' '#E2E1D1'
+  maxSpeed: 0.2
