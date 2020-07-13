@@ -7,7 +7,7 @@ title: Dear Ding
 subtitle:
 description: 'some code,some mood   live_devOps@163.com'
 keywords: 'code and blog'
-author: YoungBoy
+author: Mr_Geeker
 language: zh-CN
 timezone:
 email: 'live_devOps@163.com'
@@ -139,3 +139,8 @@ tag_cloud:
   textHeight: 18
   outlineColor: '#E2E1D1' # '#B5B4AA' '#E2E1D1'
   maxSpeed: 0.2
+  #这是服务端口
+# server:
+#   port: 40401
+#   compress: true
+#   header: true
