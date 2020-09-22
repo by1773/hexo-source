@@ -32,12 +32,15 @@ menu:
   我的 || fa fa-user:
     - 关于 || /about/ || fa fa-heart
     - 留言 ||  /message/ || fa-fw fa fa-coffee
-  更多 || fa fa-list:
+  工具 || fa fa-thumbs-up:
     - 收藏盒 ||  https://tool.art-alive.cn/cn/index.html || fa-fw fa fa-coffee
-    - 个人网 || https://art-alive.cn || fa-fw fa fa-coffee
-    - 展示网 || https://h5.art-alive.cn || fa-fw fa fa-coffee
     - 创造师 || http://chuangzaoshi.com || fa fa-paper-plane
     - 在线集 || http://www.atoolbox.net || fa fa-unlock
+  个人 || fa fa-heart:
+    - 个人网 || https://art-alive.cn || fa-fw fa fa-coffee
+    - 项目集 || https://h5.art-alive.cn || fa-fw fa fa-coffee
+    - 流程图 || https://www.processon.com || fa-fw fa fa-coffee 
+  更多 || fa fa-list:
     - Emoji || https://emojipedia.org || fa fa-book
 
 # ---------------
