@@ -42,6 +42,7 @@ menu:
     - 流程图 || https://www.processon.com || fa-fw fa fa-coffee 
   更多 || fa fa-list:
     - Emoji || https://emojipedia.org || fa fa-book
+    - 发现中国 || http://ageeye.cn || fa fa-book
 
 # ---------------
 favicon: /img/favicon.ico

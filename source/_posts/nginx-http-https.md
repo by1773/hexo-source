@@ -24,6 +24,8 @@ $ docker pull nginx:latest
 
 运行如下命令来启动nginx container
 
+
+
 ```jsx
 docker run --detach 
         --name wx-nginx 
@@ -35,6 +37,15 @@ docker run --detach
         -v /home/evan/workspace/wxserver/nginx/logs:/var/log/nginx/:rw
         -v /home/evan/workspace/wxserver/nginx/ssl:/ssl/:rw
         -d nginx
+```
+或者
+
+```jsx
+   docker run --name local-nginx -d -p 80:80  
+   -v /home/nginx/logs:/logs  
+   -v /home/nginx/conf/nginx.conf:/etc/nginx/nginx.conf  
+   -v /home/nginx/conf.d:/etc/nginx/conf.d  
+   -v /home/nginx/html:/usr/share/nginx/html nginx
 ```
 
 - 映射端口443，用于https请求
