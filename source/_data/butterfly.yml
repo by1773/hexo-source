@@ -43,6 +43,7 @@ menu:
   更多 || fa fa-list:
     - Emoji || https://emojipedia.org || fa fa-book
     - 发现中国 || http://ageeye.cn || fa fa-book
+    - TopHub || https://tophub.today/calendar || fa fa-book
 
 # ---------------
 favicon: /img/favicon.ico
